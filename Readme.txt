@@ -38,3 +38,6 @@ debaz
 'b' changes to 'c'
 'a' changes to 'b'
 'z' changes to 'a'
+
+
+cphir text wala koshan ahe ;

@@ -1,5 +1,4 @@
 public class Kadanes {
-
     public static void maxSubarraySumkadanes(int arr[]){
         int ms = Integer.MIN_VALUE;
         int cs =0;
@@ -13,7 +12,7 @@ public class Kadanes {
         System.out.println("Our max subarray sum is: "+ms);
     }
     public static void main(String[] args) {
-        int arr[]={-2,-3,4,-1,-2,1,5,-3};
+        int arr[]={2,3,4,1,-2,1,5,3};
         maxSubarraySumkadanes(arr);  
     }
     
